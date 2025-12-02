@@ -1,5 +1,5 @@
 ---   
-description: Explain how to set up Shortcut on the Desktop     
+description: Explain how to set up Shortcut on the desktop     
 title: Putting a Shortcut on the Desktop   
 read_time: 2min read   
 product_version: '1.0'   
@@ -71,7 +71,7 @@ Shortcuts save time by allowing you quick access to the programs you use the mos
 
 2. Make sure you can see both the File Explorer window and some empty space on your desktop.
 
-3. **Right-click** **and hold **on the file or folder icon.
+3. **Right-click and hold** on the file or folder icon.
 
 4. **Drag** the icon over to your desktop space.
 
