@@ -1,4 +1,4 @@
-# ConnectWise Assessement 
+# ConnectWise Assessment 
 
 I updated the “Putting a shortcut on your desktop” section from the old Windows 95 document for Windows 11. While creating this document, I made sure the content stays to the point and succinct, with crisp steps for creating shortcuts for Applications, Files/Folders, and Websites. I’ve also added supporting visual cues (gifs) and an alternative method.
 
