@@ -24,16 +24,15 @@ sidebar_position: 1
 
 **Table of Contents**
 
-
-[Putting a Shortcut on the Desktop](#putting-a-shortcut-on-the-desktop)
-[What is a shortcut on your desktop?](#what-is-a-shortcut-on-your-desktop)
-[Why create a shortcut?](#why-create-a-shortcut)
-[Steps to create a shortcut](#steps-to-create-a-shortcut)
-	[For Application](#for-application)
-	[For File and Folder](#for-file-and-folder)
-	[For Website](#for-website)
-	[Alternative Method](#for-website)
-[Author’s Note](#authors-note)
+- [Putting a Shortcut on the Desktop](#putting-a-shortcut-on-the-desktop)
+- [What is a shortcut on your desktop?](#what-is-a-shortcut-on-your-desktop)
+- [Why create a shortcut?](#why-create-a-shortcut)
+- [Steps to create a shortcut](#steps-to-create-a-shortcut)
+	- [For Application](#for-application)
+	- [For File and Folder](#for-file-and-folder)
+	- [For Website](#for-website)
+	- [Alternative Method](#for-website)
+- [Author’s Note](#authors-note)
 
 # Putting a Shortcut on the Desktop
 
